@@ -207,15 +207,108 @@ console.log("Jvavascript Conected!");
 
 
 
+// _______________________Assignment-08_______________________________
 
+// ___________________Q-01______________________
 
+// var user = prompt("Enter the weather ");
 
+// if(user >=65 && user < 90){
+//     console.log("Uppercase letter ");
+    
+// }else if(user >=90 && user < 97){
+//     console.log("Lower case letter");
+    
+// }else if (user >=97 && user < 122){
+//     console.log("This is number");
+    
+// }else{
+//     console.log("Please Try again");
+    
+// }
 
+// _________________________________Q-02___________________________________
 
+// var num1 = prompt("Type any number");
 
+// var nmu2 = prompt("Type any number");
 
+// if(num1 > nmu2){
+//     console.log(num1);
+    
+// }else if(num1 < nmu2){
+//     console.log(nmu2);
+    
+// }else if(num1 == nmu2){
+//     console.log("This is equal");
+    
+// }
 
+// ________________________________Q-03_____________________________________
 
+// var user = prompt("Type the weather state");
+
+// if(user > 0){
+
+//     console.log("This is positive ");
+    
+// }else if(user < 0){
+
+//     console.log("This is nagative");
+    
+// }else if(user == 0 ){
+
+//     console.log("This is zero");
+    
+// }
+
+// ________________________Q-04____________________________________________
+
+// var userInput =prompt("Type a vowel alphabet");
+
+// if(userInput === "a" || userInput=== "i" || userInput === "o" || userInput === "u" || userInput === "e" ){
+
+//     console.log("True");
+    
+// }else{
+
+//     console.log("false");
+    
+// }
+
+// 
+
+// _________________________Q-05________________________________
+
+// var passwordInput =prompt("Enter your password");
+
+// var codePassword =("pakistan321");
+
+// if(passwordInput === ""){
+
+//     console.log("Please enter password");
+    
+// }else if(passwordInput === codePassword){
+//     console.log("Correct!");
+    
+// } else{
+
+//     console.log("incorrect password");
+     
+// }
+
+// _______________________________Q-06________________________________
+
+// var hour = 13;
+
+// var greeting;
+
+// if(hour < 18){
+//     greeting ="Good day"
+// }else{
+//     greeting = " Good evening"
+// }
+// console.log(greeting);
 
 
 
